@@ -4,7 +4,7 @@
 		
 			                  	If You Are Reading This You Would Have Downlaoded Our Project Employee Record Manager
 			 					
-								                                                Thanks For Downloading
+								              Thanks For Downloading
 
 
 	Let's Get Started :
@@ -34,9 +34,9 @@
 		
 		   Current Password : ravi
 
-	 10) You Can Update The Password , There is an Option In The Menu of The Program To Change The Password.
+	 	10) You Can Update The Password , There is an Option In The Menu of The Program To Change The Password.
 
 
 					
 										
-							                                                 Thank You For Being With Us!!!!
+							                Thank You For Being With Us!!!!
